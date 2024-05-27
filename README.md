@@ -5,7 +5,7 @@
 - 📫 How to reach me: click to the link just beside
 - 😄 I can easily work full or part time from home
 - ⚡ Fun fact: I started computing with basic and a to7 70, a long time ago ;-)
-- 🚀After many years in sport and retail i'm looking for a new career as a data analyst
+- 🚀After many years in sport and retail i'm looking for a new career in data!
 <!---
 FlorentCramette/FlorentCramette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
