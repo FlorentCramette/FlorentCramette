@@ -3,6 +3,7 @@ import pandas as pd
 import seaborn as sns
 import numpy as np
 import matplotlib.pyplot as plt
+import altair as alt
 
 # Title and introduction
 st.markdown("<h1 style='text-align: center;'>Hello Wilders, welcome to my application!</h1>", unsafe_allow_html=True)
@@ -30,7 +31,12 @@ def highlight_extremes(val):
 styled_df = df_weather[['DATE', 'MAX_TEMPERATURE_C']].style.applymap(highlight_extremes, subset=['MAX_TEMPERATURE_C'])
 st.dataframe(styled_df)
 
-st.line_chart(df_weather.set_index('DATE')['MAX_TEMPERATURE_C'], color=['red'])
+# Create Altair chart for red line chart
+chart = alt.Chart(df_weather).mark_line(color='red').encode(
+    x='DATE:T',
+    y='MAX_TEMPERATURE_C:Q'
+)
+st.altair_chart(chart, use_container_width=True)
 
 # Correlation matrix (trimmed)
 st.subheader("Carte de corrélation (triangle supérieur)")
