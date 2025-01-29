@@ -30,7 +30,7 @@ def highlight_extremes(val):
 styled_df = df_weather[['DATE', 'MAX_TEMPERATURE_C']].style.applymap(highlight_extremes, subset=['MAX_TEMPERATURE_C'])
 st.dataframe(styled_df)
 
-st.line_chart(df_weather.set_index('DATE')['MAX_TEMPERATURE_C'])
+st.line_chart(df_weather.set_index('DATE')['MAX_TEMPERATURE_C'], color=['red'])
 
 # Correlation matrix (trimmed)
 st.subheader("Carte de corrélation (triangle supérieur)")
