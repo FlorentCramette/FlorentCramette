@@ -1,4 +1,4 @@
-<h1>Bonjour et bienvenue sur mon Git!!</h1>
+<h1>👋Bonjour et bienvenue sur mon Git!!</h1>
 
 <p style="font-size:20px;">👀 Je suis passionné par les voyages, le sport et l'informatique !
   
