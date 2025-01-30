@@ -4,7 +4,7 @@
   
 - 🌱 J'ai appris Python, SQL, Power BI, API Rest, Machine Learning et IA à la Wild Code School Lyon
 - 💞️ J'aime ma belle ville de Lyon et j'adore aller à la montagne pour skier ou randonner
-- 📫 Comment me contacter : <a href="www.linkedin.com/in/florentcramette" target="_blank">LinkedIn</a>
+- 📫 Comment me contacter : <a href="https://www.linkedin.com/in/florentcramette" target="_blank" rel="noopener noreferrer">Mon LinkedIn</a>
 - 😄 Je peux facilement travailler à temps plein ou partiel depuis chez moi 
 - ⚡ Fun fact : J'ai commencé l'informatique avec Basic et un TO7 70, il y a bien longtemps ;-)
 - 🚀 Après de nombreuses années dans le sport et le retail, je me lance dans une nouvelle carrière dans la data</p>
