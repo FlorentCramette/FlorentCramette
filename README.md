@@ -1,8 +1,15 @@
 <h1>Bonjour et bienvenue sur mon Git!!</h1>
-<h2> 👋 Hi, I’m @FlorentCramette</h2>
-<p style="font-size:20px;">Texte avec une taille de police personnalisée</p>
 
--
+<p style="font-size:20px;">👀 Je suis passionné par les voyages, le sport et l'informatique !  
+- 🌱 J'ai appris Python, SQL, Power BI, API Rest, Machine Learning et IA à la Wild Code School Lyon  
+- 💞️ J'aime ma belle ville de Lyon et j'adore aller à la montagne pour skier ou randonner  
+- 📫 Comment me contacter : cliquez sur le lien juste à côté  
+- 😄 Je peux facilement travailler à temps plein ou partiel depuis chez moi  
+- ⚡ Fun fact : J'ai commencé l'informatique avec Basic et un TO7 70, il y a bien longtemps ;-)  
+- 🚀 Après de nombreuses années dans le sport et le retail, je me lance dans une nouvelle carrière dans la data</p>
+
+<h2> 👋 Hi, I’m @FlorentCramette</h2>
+
 - <p style="font-size:20px;">👀 I’m interested in traveling, sports and IT!
 - 🌱 I learned python, SQL, power BI, API Rest, machine learning and AI at the Wild Code School Lyon
 - 💞️ I love my beautiful city of Lyon and I love going to the mountains to ski, or walk
