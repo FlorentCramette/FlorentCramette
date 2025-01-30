@@ -1,9 +1,8 @@
 <h1>👋Bonjour et bienvenue sur mon Git!!</h1>
 
-<h2>- 👀 Je suis passionné par les voyages, le sport et l'informatique !</h2>
+<h2>👀 Je suis passionné par les voyages, le sport et l'informatique !</h2>
 
-  <p style="font-size:20px;">
-- 🌱 J'ai appris Python, SQL, Power BI, API Rest, Machine Learning et IA à la Wild Code School Lyon
+  <p style="font-size:20px;">- 🌱 J'ai appris Python, SQL, Power BI, API Rest, Machine Learning et IA à la Wild Code School Lyon
 - 💞️ J'aime ma belle ville de Lyon et j'adore aller à la montagne pour skier ou randonner
 - 📫 Comment me contacter : <a href="https://www.linkedin.com/in/florentcramette" target="_blank" rel="noopener noreferrer">Mon LinkedIn</a>
 - 😄 Je peux facilement travailler à temps plein ou partiel depuis chez moi 
