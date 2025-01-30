@@ -1,3 +1,7 @@
+<h1>Bonjour et bienvenue sur mon Git!!</h1>
+<h2>Texte un peu moins grand</h2>
+<p style="font-size:20px;">Texte avec une taille de police personnalisée</p>
+
 - 👋 Hi, I’m @FlorentCramette
 - 👀 I’m interested in traveling, sports and IT!
 - 🌱 I learned python, SQL, power BI, API Rest, machine learning and AI at the Wild Code School Lyon
