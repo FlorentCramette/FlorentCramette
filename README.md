@@ -12,6 +12,7 @@
 <h1> 👋 Hi, I’m @FlorentCramette</h1>
 
 <h2>👀 I’m interested in traveling, sports and IT!</h2>
+
 - <p style="font-size:20px;">🌱 I learned python, SQL, power BI, API Rest, machine learning and AI at the Wild Code School Lyon
 - 💞️ I love my beautiful city of Lyon and I love going to the mountains to ski, or walk
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/florentcramette" target="_blank" rel="noopener noreferrer">Mon LinkedIn</a>
