@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlorentCramette
 - 👀 I’m interested in traveling, sports and IT!
-- 🌱 I’m currently learning python, SQL, power BI, API Rest, machine learning and AI at the Wild Code School Lyon
+- 🌱 I learned python, SQL, power BI, API Rest, machine learning and AI at the Wild Code School Lyon
 - 💞️ I love my beautiful city of Lyon and I love going to the mountains to ski, or walk
 - 📫 How to reach me: click to the link just beside
 - 😄 I can easily work full or part time from home
