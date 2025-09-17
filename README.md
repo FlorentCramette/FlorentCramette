@@ -51,7 +51,7 @@ Stack : `TODO (ex. React + TMDB API / Streamlit + OMDb / Flask + PostgreSQL)`
 
 ### 📊 Veille VTT automatisée
 Scraping & monitoring des prix (Python, Selenium, GitHub Actions) avec alertes e-mail.  
-**Code** : 👉 [TODO: lien repo]
+**Code** : 👉 https://github.com/FlorentCramette/vtt-scraper
 
 ### 🧾 CV interactif (Streamlit)
 CV dynamique avec visualisations et déploiement auto.  
