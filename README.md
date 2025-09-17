@@ -26,8 +26,8 @@
 ## 🚀 Projets en avant
 
 ### 🎬 Cinetopia — découverte & recommandations de films
-**Démo** : 👉 [TODO: lien déployé] • **Code** : 👉 [TODO: lien repo]  
-Stack : `TODO (ex. React + TMDB API / Streamlit + OMDb / Flask + PostgreSQL)`
+**Code** : 👉 [github.com/FlorentCramette/cinetopia](https://github.com/FlorentCramette/cinetopia)  
+Stack : `Python • Django • Machine Learning • TMDB API`
 
 <div align="center">
   
@@ -51,27 +51,93 @@ Stack : `TODO (ex. React + TMDB API / Streamlit + OMDb / Flask + PostgreSQL)`
 
 ### 📊 Veille VTT automatisée
 Scraping & monitoring des prix (Python, Selenium, GitHub Actions) avec alertes e-mail.  
-**Code** : 👉 https://github.com/FlorentCramette/vtt-scraper
+**Code** : 👉 [github.com/FlorentCramette/vtt-scraper](https://github.com/FlorentCramette/vtt-scraper)
+
+### 🏪 Analyse retail géo-data
+Cas d'usage analyse géospatiale pour optimisation d'implantations retail.  
+**Code** : 👉 [github.com/FlorentCramette/retail_geodata_case](https://github.com/FlorentCramette/retail_geodata_case)
+
+### 📈 Dashboard Power BI - ModelCompany
+Modèle de données complet et tableaux de bord interactifs pour entreprise fictive.  
+Stack : `Power BI • DAX • Power Query • Modélisation étoile`  
+**Code** : 👉 [github.com/FlorentCramette/powerbi-modelcompany](https://github.com/FlorentCramette/powerbi-modelcompany)
+
+**Fonctionnalités clés**
+- 📊 Modèle de données en étoile (ventes, clients, produits, temps)
+- 📈 KPIs métier : CA, marge, évolution, top produits/clients
+- 🎯 Filtres dynamiques et drill-down par région/période
+- 🔄 Mesures DAX avancées et calculs temporels
+
+---
+
+## 🎮 Démos interactives
+
+<div align="center">
+
+[![Streamlit App](https://img.shields.io/badge/🧾_CV_Interactif-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cvflorentcramettedata.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/🎬_Cinetopia-Django_ML-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/FlorentCramette/cinetopia)
+[![GitHub](https://img.shields.io/badge/�_Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/FlorentCramette/powerbi-modelcompany)
+[![GitHub](https://img.shields.io/badge/�📊_VTT_Scraper-Python_Auto-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/FlorentCramette/vtt-scraper)
+
+</div>
+
+**🚀 Prêt à tester ?**
+- **CV Streamlit** : Clique sur le badge ci-dessus → interface immédiate
+- **Cinetopia** : Clone le repo → `pip install -r requirements.txt` → `python manage.py runserver`
+- **Power BI Dashboard** : Télécharge le fichier .pbix → Ouvre avec Power BI Desktop
+- **VTT Scraper** : Automatisation prête à déployer avec GitHub Actions
+
+---
+
+## 📊 Stats GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlorentCramette&show_icons=true&theme=transparent&hide_border=true&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentCramette&layout=compact&theme=transparent&hide_border=true&title_color=3fb950&text_color=c9d1d9&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FlorentCramette&theme=dark&hide_border=true&background=0D1117&stroke=3FB950&ring=3FB950&fire=3FB950&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
+
+</div>
+
+---
 
 ### 🧾 CV interactif (Streamlit)
 CV dynamique avec visualisations et déploiement auto.  
-**Démo** : 👉 https://cvflorentcramettedata.streamlit.app/ · **Code** : 👉 [TODO: lien repo]
+**Démo** : 👉 [cvflorentcramettedata.streamlit.app](https://cvflorentcramettedata.streamlit.app/) • **Code** : 👉 [github.com/FlorentCramette/CV_STREAMLIT_FLORENT](https://github.com/FlorentCramette/CV_STREAMLIT_FLORENT)
 
 ---
 
 ## 🧠 Compétences
 
-### ERP & Dev
-- **Odoo v18** (paramétrage, custom, multi-sociétés), **Python**, **Git/GitHub**, **PyCharm**
+<div align="center">
 
-### Data & BI
-- **SQL** (PostgreSQL/MySQL), **Power BI**, **Tableau**, **Pandas/NumPy**, **ETL** (scripts), **Selenium**
+### 🔧 ERP & Dev
+![Odoo](https://img.shields.io/badge/Odoo_v18-8765A6?style=flat-square&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 
-### Automatisation & Ops
-- **GitHub Actions**, Docker (bases), déploiements Vercel/Render/Streamlit
+### 📊 Data & BI
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-### Pédagogie
-- Vulgarisation technique, supports de cours, ateliers pratiques orientés projet
+### ⚙️ Automatisation & Ops
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### 🎓 Pédagogie & Communication
+![EdTech](https://img.shields.io/badge/EdTech-4285F4?style=flat-square&logo=googlescholar&logoColor=white)
+![Workshops](https://img.shields.io/badge/Ateliers-FF6B6B?style=flat-square&logo=workshop&logoColor=white)
+![Technical Writing](https://img.shields.io/badge/Rédaction_technique-2E8B57?style=flat-square&logo=markdown&logoColor=white)
+
+</div>
 
 ---
 
@@ -83,9 +149,29 @@ CV dynamique avec visualisations et déploiement auto.
 ---
 
 ## 🤝 Me contacter
-- ✉️ **florent.cramette@gmail.com**  
-- 🔗 **LinkedIn** : https://www.linkedin.com/in/florentcramette  
-- 🐙 **GitHub** : https://github.com/florentcramette
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-florent.cramette@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florent.cramette@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/�_LinkedIn-Florent_Cramette-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florentcramette)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-FlorentCramette-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/florentcramette)
+
+</div>
+
+---
+
+## 🎯 Prochaines étapes
+
+🚧 **En cours de développement :**
+- 🎬 **Cinetopia v2** : Déploiement Streamlit avec recommandations ML améliorées
+- 📊 **Dashboard VTT** : Visualisation Power BI des données scrapées
+- 🤖 **Odoo Custom Modules** : Modules métier spécialisés (retail, e-commerce)
+
+💡 **Projets à venir :**
+- 🎓 **Plateforme EdTech** : Interface pédagogique pour formations data
+- 🏪 **Géo-analytics SaaS** : Solution d'analyse géospatiale pour retail
+
+📢 **Toujours ouvert aux collaborations** sur des projets data, Odoo ou EdTech !
 
 ---
 
