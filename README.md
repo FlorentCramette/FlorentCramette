@@ -25,7 +25,8 @@
 
 ## 🚀 **Projet phare : Retail GeoData Pipeline** 
 **Pipeline de données production-ready** pour l'optimisation retail avec **ML prédictif** et **dashboard interactif**. 
-[🔥 **Essayez la démo live**](https://retail-geodata-case.streamlit.app) | [📋 Code](https://github.com/FlorentCramette/retail_geodata_case)
+## 🌟 **[>>> ESSAYEZ LA DÉMO EN LIGNE <<<](https://retailgeodatacase-jjdsfxbvgmdwn3n4yzh6pg.streamlit.app/)**
+[📋 Code](https://github.com/FlorentCramette/retail_geodata_case)
 
 Stack : `Python • pandas • scikit-learn • Streamlit • Folium • Great Expectations`
 
