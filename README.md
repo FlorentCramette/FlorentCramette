@@ -25,6 +25,22 @@
 
 ## 🚀 Projets en avant
 
+## 🚀 **Projet phare : Retail GeoData Pipeline** 
+**Pipeline de données production-ready** pour l'optimisation retail avec **ML prédictif** et **dashboard interactif**. 
+[🔥 **Essayez la démo live**](https://retail-geodata-case.streamlit.app) | [📋 Code](https://github.com/FlorentCramette/retail_geodata_case)
+
+Stack : `Python • pandas • scikit-learn • Streamlit • Folium • Great Expectations`
+
+**Fonctionnalités clés**
+- 📊 **Dashboard interactif** : Cartographie temps réel, prédictions ML, analyse concurrentielle
+- 🔧 **Pipeline ETL** : Nettoyage automatique, validation qualité (100% succès), architecture modulaire  
+- 🤖 **Machine Learning** : Random Forest (R²=0.85), feature engineering géospatial, cross-validation
+- ⚡ **Production-ready** : Logging, monitoring, solutions d'automatisation (Airflow, Mage.ai)
+
+> 💡 **Démo technique** disponible en 15-20 min · **Architecture scalable** de startup à enterprise
+
+---
+
 ### 🎬 Cinetopia — découverte & recommandations de films
 **Code** : 👉 [github.com/FlorentCramette/cinetopia](https://github.com/FlorentCramette/cinetopia)  
 Stack : `Python • Django • Machine Learning • TMDB API`
