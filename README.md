@@ -6,8 +6,7 @@ Stack : `Power BI • DAX • Power Query • Modélisation étoile`
 <h1 align="center">👋 Bonjour, je suis Florent Cramette</h1>
 
 <p align="center">
-  Consultant technico-fonctionnel <b>Odoo v18</b> & <b>Data Analyst</b> · Lyon (FR)<br/>
-  Passionné de data, d’optimisation de processus et de pédagogie numérique
+Data Analyst certifié, avec une expertise à la croisée de la donnée et du métier. Fort de 15+ ans d’expérience en retail, management et ERP (Odoo), j’ai acquis une compréhension approfondie des processus commerciaux et opérationnels.
 </p>
 
 <p align="center">
@@ -46,7 +45,7 @@ Stack : `Python • pandas • scikit-learn • Streamlit • Folium • Great E
 ### � POC Dashboard Power BI - Retail BI POC
 Modèle de données complet et tableaux de bord interactifs pour entreprise fictive.  
 Stack : `Power BI • DAX • Power Query • Modélisation étoile`  
-**Code** : 👉 [github.com/FlorentCramette/powerbi-modelcompany](https://github.com/FlorentCramette/retail-bi-poc)
+**Code** : 👉 [github.com/FlorentCramette/retail-bi-poc](https://github.com/FlorentCramette/retail-bi-poc)
 
 **Fonctionnalités clés**
 - 📊 Modèle de données retail (ventes, clients, produits, géolocalisation)
