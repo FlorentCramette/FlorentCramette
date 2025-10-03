@@ -40,6 +40,19 @@ Stack : `Python • pandas • scikit-learn • Streamlit • Folium • Great E
 
 ---
 
+### � POC Dashboard Power BI - ModelCompany
+Modèle de données complet et tableaux de bord interactifs pour entreprise fictive.  
+Stack : `Power BI • DAX • Power Query • Modélisation étoile`  
+**Code** : 👉 [github.com/FlorentCramette/powerbi-modelcompany](https://github.com/FlorentCramette/powerbi-modelcompany)
+
+**Fonctionnalités clés**
+- 📊 Modèle de données en étoile (ventes, clients, produits, temps)
+- 📈 KPIs métier : CA, marge, évolution, top produits/clients
+- 🎯 Filtres dynamiques et drill-down par région/période
+- 🔄 Mesures DAX avancées et calculs temporels
+
+---
+
 ### 🎬 Cinetopia — découverte & recommandations de films
 **Code** : 👉 [github.com/FlorentCramette/cinetopia](https://github.com/FlorentCramette/cinetopia)  
 Stack : `Python • Django • Machine Learning • TMDB API`
@@ -61,19 +74,6 @@ Stack : `Python • Django • Machine Learning • TMDB API`
 - 🧩 Petite reco personnalisée (filtrage/règles simples)
 
 > 💡 Astuce sécurité : garde tes clés d’API dans des **variables d’environnement** (Vercel/Render/Streamlit → *Secrets*).
-
----
-
-### � POC Dashboard Power BI - ModelCompany
-Modèle de données complet et tableaux de bord interactifs pour entreprise fictive.  
-Stack : `Power BI • DAX • Power Query • Modélisation étoile`  
-**Code** : 👉 [github.com/FlorentCramette/powerbi-modelcompany](https://github.com/FlorentCramette/powerbi-modelcompany)
-
-**Fonctionnalités clés**
-- 📊 Modèle de données en étoile (ventes, clients, produits, temps)
-- 📈 KPIs métier : CA, marge, évolution, top produits/clients
-- 🎯 Filtres dynamiques et drill-down par région/période
-- 🔄 Mesures DAX avancées et calculs temporels
 
 ---
 
