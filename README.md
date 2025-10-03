@@ -16,8 +16,8 @@
 ---
 
 ## 🎯 À propos
-- 🔧 Odoo v18 (multi-sociétés), Python, SQL, Power BI, GitHub Actions  
-- 📈 Data : nettoyage, modélisation légère, visualisation & reporting  
+- 🔧 Odoo, Python, SQL, Power BI, Dax, Streamlit, Django, GitHub Actions  
+- 📈 Data : nettoyage, modélisation légère, visualisation & reporting
 - 🎓 Vulgarisation technique & création de supports (EdTech / ateliers)  
 - 🏔️ Outdoor : kayak, VTT, ski de rando — esprit équipe & persévérance
 
@@ -64,15 +64,7 @@ Stack : `Python • Django • Machine Learning • TMDB API`
 
 ---
 
-### 📊 Veille VTT automatisée
-Scraping & monitoring des prix (Python, Selenium, GitHub Actions) avec alertes e-mail.  
-**Code** : 👉 [github.com/FlorentCramette/vtt-scraper](https://github.com/FlorentCramette/vtt-scraper)
-
-### 🏪 Analyse retail géo-data
-Cas d'usage analyse géospatiale pour optimisation d'implantations retail.  
-**Code** : 👉 [github.com/FlorentCramette/retail_geodata_case](https://github.com/FlorentCramette/retail_geodata_case)
-
-### 📈 Dashboard Power BI - ModelCompany
+### � POC Dashboard Power BI - ModelCompany
 Modèle de données complet et tableaux de bord interactifs pour entreprise fictive.  
 Stack : `Power BI • DAX • Power Query • Modélisation étoile`  
 **Code** : 👉 [github.com/FlorentCramette/powerbi-modelcompany](https://github.com/FlorentCramette/powerbi-modelcompany)
@@ -82,6 +74,12 @@ Stack : `Power BI • DAX • Power Query • Modélisation étoile`
 - 📈 KPIs métier : CA, marge, évolution, top produits/clients
 - 🎯 Filtres dynamiques et drill-down par région/période
 - 🔄 Mesures DAX avancées et calculs temporels
+
+---
+
+### 📊 Veille VTT automatisée
+Scraping & monitoring des prix (Python, Selenium, GitHub Actions) avec alertes e-mail.  
+**Code** : 👉 [github.com/FlorentCramette/vtt-scraper](https://github.com/FlorentCramette/vtt-scraper)
 
 ---
 
