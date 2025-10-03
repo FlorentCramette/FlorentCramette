@@ -43,7 +43,7 @@ Stack : `Python • pandas • scikit-learn • Streamlit • Folium • Great E
 ### � POC Dashboard Power BI - ModelCompany
 Modèle de données complet et tableaux de bord interactifs pour entreprise fictive.  
 Stack : `Power BI • DAX • Power Query • Modélisation étoile`  
-**Code** : 👉 [github.com/FlorentCramette/powerbi-modelcompany](https://github.com/FlorentCramette/powerbi-modelcompany)
+**Code** : 👉 [github.com/FlorentCramette/powerbi-modelcompany](https://github.com/FlorentCramette/retail-bi-poc)
 
 **Fonctionnalités clés**
 - 📊 Modèle de données en étoile (ventes, clients, produits, temps)
