@@ -3,8 +3,7 @@ POC de Business Intelligence pour analyse retail avec dashboards interactifs.
 Stack : `Power BI • DAX • Power Query • Modélisation étoile`  
 **Code** : 👉 [github.com/FlorentCramette/retail-bi-poc](https://github.com/FlorentCramette/retail-bi-poc)te -->
 
-<h1 align="center">👋 Bonjour[![GitHub](https://img.shields.io/badge/🎬_Cinetopia-Django_ML-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/FlorentCramette/cinetopia)
-[![GitHub](https://img.shields.io/badge/📈_Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/FlorentCramette/retail-bi-poc)e suis Florent Cramette</h1>
+<h1 align="center">👋 Bonjour, je suis Florent Cramette</h1>
 
 <p align="center">
   Consultant technico-fonctionnel <b>Odoo v18</b> & <b>Data Analyst</b> · Lyon (FR)<br/>
