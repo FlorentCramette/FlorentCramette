@@ -1,6 +1,10 @@
-<!-- Profil README for github.com/florentcramette -->
+<!-- Profil README for github.com/florentcr### 📈 POC Dashboard Power BI - Retail Analytics
+POC de Business Intelligence pour analyse retail avec dashboards interactifs.  
+Stack : `Power BI • DAX • Power Query • Modélisation étoile`  
+**Code** : 👉 [github.com/FlorentCramette/retail-bi-poc](https://github.com/FlorentCramette/retail-bi-poc)te -->
 
-<h1 align="center">👋 Bonjour, je suis Florent Cramette</h1>
+<h1 align="center">👋 Bonjour[![GitHub](https://img.shields.io/badge/🎬_Cinetopia-Django_ML-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/FlorentCramette/cinetopia)
+[![GitHub](https://img.shields.io/badge/📈_Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/FlorentCramette/retail-bi-poc)e suis Florent Cramette</h1>
 
 <p align="center">
   Consultant technico-fonctionnel <b>Odoo v18</b> & <b>Data Analyst</b> · Lyon (FR)<br/>
@@ -40,16 +44,16 @@ Stack : `Python • pandas • scikit-learn • Streamlit • Folium • Great E
 
 ---
 
-### � POC Dashboard Power BI - ModelCompany
+### � POC Dashboard Power BI - Retail BI POC
 Modèle de données complet et tableaux de bord interactifs pour entreprise fictive.  
 Stack : `Power BI • DAX • Power Query • Modélisation étoile`  
 **Code** : 👉 [github.com/FlorentCramette/powerbi-modelcompany](https://github.com/FlorentCramette/retail-bi-poc)
 
 **Fonctionnalités clés**
-- 📊 Modèle de données en étoile (ventes, clients, produits, temps)
-- 📈 KPIs métier : CA, marge, évolution, top produits/clients
-- 🎯 Filtres dynamiques et drill-down par région/période
-- 🔄 Mesures DAX avancées et calculs temporels
+- 📊 Modèle de données retail (ventes, clients, produits, géolocalisation)
+- 📈 KPIs retail : CA, marge, performance magasins, analyse concurrentielle
+- 🎯 Dashboards interactifs avec filtres géographiques et temporels
+- 🔄 Mesures DAX avancées et calculs de tendances retail
 
 ---
 
@@ -77,19 +81,13 @@ Stack : `Python • Django • Machine Learning • TMDB API`
 
 ---
 
-### 📊 Veille VTT automatisée
-Scraping & monitoring des prix (Python, Selenium, GitHub Actions) avec alertes e-mail.  
-**Code** : 👉 [github.com/FlorentCramette/vtt-scraper](https://github.com/FlorentCramette/vtt-scraper)
-
----
-
 ## 🎮 Démos interactives
 
 <div align="center">
 
 [![Streamlit App](https://img.shields.io/badge/🧾_CV_Interactif-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cvflorentcramettedata.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/🎬_Cinetopia-Django_ML-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/FlorentCramette/cinetopia)
-[![GitHub](https://img.shields.io/badge/�_Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/FlorentCramette/powerbi-modelcompany)
+[![GitHub](https://img.shields.io/badge/�_Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/FlorentCramette/retail-bi-poc)
 [![GitHub](https://img.shields.io/badge/�📊_VTT_Scraper-Python_Auto-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/FlorentCramette/vtt-scraper)
 
 </div>
@@ -98,7 +96,6 @@ Scraping & monitoring des prix (Python, Selenium, GitHub Actions) avec alertes e
 - **CV Streamlit** : Clique sur le badge ci-dessus → interface immédiate
 - **Cinetopia** : Clone le repo → `pip install -r requirements.txt` → `python manage.py runserver`
 - **Power BI Dashboard** : Télécharge le fichier .pbix → Ouvre avec Power BI Desktop
-- **VTT Scraper** : Automatisation prête à déployer avec GitHub Actions
 
 ---
 
